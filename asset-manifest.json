@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/react-webdevifti-portfolio-template/static/css/main.965aa860.chunk.css",
+    "main.js": "/react-webdevifti-portfolio-template/static/js/main.d808e39a.chunk.js",
+    "main.js.map": "/react-webdevifti-portfolio-template/static/js/main.d808e39a.chunk.js.map",
+    "runtime-main.js": "/react-webdevifti-portfolio-template/static/js/runtime-main.78be634d.js",
+    "runtime-main.js.map": "/react-webdevifti-portfolio-template/static/js/runtime-main.78be634d.js.map",
+    "static/css/2.970d4c3d.chunk.css": "/react-webdevifti-portfolio-template/static/css/2.970d4c3d.chunk.css",
+    "static/js/2.01ff06ea.chunk.js": "/react-webdevifti-portfolio-template/static/js/2.01ff06ea.chunk.js",
+    "static/js/2.01ff06ea.chunk.js.map": "/react-webdevifti-portfolio-template/static/js/2.01ff06ea.chunk.js.map",
+    "static/js/3.e8f1c274.chunk.js": "/react-webdevifti-portfolio-template/static/js/3.e8f1c274.chunk.js",
+    "static/js/3.e8f1c274.chunk.js.map": "/react-webdevifti-portfolio-template/static/js/3.e8f1c274.chunk.js.map",
+    "index.html": "/react-webdevifti-portfolio-template/index.html",
+    "static/css/2.970d4c3d.chunk.css.map": "/react-webdevifti-portfolio-template/static/css/2.970d4c3d.chunk.css.map",
+    "static/css/main.965aa860.chunk.css.map": "/react-webdevifti-portfolio-template/static/css/main.965aa860.chunk.css.map",
+    "static/js/2.01ff06ea.chunk.js.LICENSE.txt": "/react-webdevifti-portfolio-template/static/js/2.01ff06ea.chunk.js.LICENSE.txt",
+    "static/media/1.612ad7c9.jpg": "/react-webdevifti-portfolio-template/static/media/1.612ad7c9.jpg",
+    "static/media/10.2facef17.jpg": "/react-webdevifti-portfolio-template/static/media/10.2facef17.jpg",
+    "static/media/11.82d70003.jpg": "/react-webdevifti-portfolio-template/static/media/11.82d70003.jpg",
+    "static/media/12.b32a9f1f.png": "/react-webdevifti-portfolio-template/static/media/12.b32a9f1f.png",
+    "static/media/2.f9511e9e.jpg": "/react-webdevifti-portfolio-template/static/media/2.f9511e9e.jpg",
+    "static/media/3.123d5221.jpg": "/react-webdevifti-portfolio-template/static/media/3.123d5221.jpg",
+    "static/media/4.07b75ceb.jpg": "/react-webdevifti-portfolio-template/static/media/4.07b75ceb.jpg",
+    "static/media/5.35084f22.jpg": "/react-webdevifti-portfolio-template/static/media/5.35084f22.jpg",
+    "static/media/7.0d50303b.jpg": "/react-webdevifti-portfolio-template/static/media/7.0d50303b.jpg",
+    "static/media/9.b231995f.png": "/react-webdevifti-portfolio-template/static/media/9.b231995f.png",
+    "static/media/Banner.scss": "/react-webdevifti-portfolio-template/static/media/me.b879df10.jpg",
+    "static/media/me2.cfd0e634.png": "/react-webdevifti-portfolio-template/static/media/me2.cfd0e634.png",
+    "static/media/slick-theme.css": "/react-webdevifti-portfolio-template/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78be634d.js",
+    "static/css/2.970d4c3d.chunk.css",
+    "static/js/2.01ff06ea.chunk.js",
+    "static/css/main.965aa860.chunk.css",
+    "static/js/main.d808e39a.chunk.js"
+  ]
+}
