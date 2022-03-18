@@ -1,0 +1,48 @@
+@import './Utilities.scss';
+.section-experience{
+    background: $backgroundRadiusColor;
+    padding: 50px 0px;
+    height: auto;
+    .experience-section-title{
+        color: $lightColor;
+    }
+    .experience-section-short-description{
+        color: $lightColor;
+    }
+    .experience-item {
+        margin: 50px 0px;
+        .experience{
+            
+            color: $lightColor;
+            display: flex;
+
+            .experience-desc{
+                width: 80%;
+                text-align: justify;
+            }
+            .experience-metadata{
+                width: 15%;
+                h3{
+                    font-weight: 400;
+                    margin: 5px 0px;
+                    font-size: 22px;
+                }
+
+            }
+        }
+        &.left{
+            .experience-metadata{
+                border-right: 8px solid $lightColor;
+                margin-right: 20px;
+            }
+        }
+        &.right{
+            .experience-desc{
+                margin-right: 20px;
+                padding-right: 20px;
+                text-align: right;
+                border-right: 8px solid $lightColor;
+            }
+        }
+    }
+}

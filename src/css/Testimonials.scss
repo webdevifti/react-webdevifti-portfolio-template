@@ -1,0 +1,64 @@
+@import './Utilities.scss';
+
+.testimonial-section{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAyUlKsSD8vCGCrozbvB2R6AZDFOB6Fn3ErA&usqp=CAU');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+    .testimonial-section-title,
+    .testimonial-section-short-description{
+        color: $lightColor;
+        font-weight: 600;
+    }
+
+    .testimonial-wrapper{
+        height: 100%;
+        width: 100%;
+        padding: 50px 0px;
+        background-color: rgba(0,0,0,0.7);
+
+        .testimonial-items{
+            // display: flex;
+            // align-items: center;
+            height: 100%;
+            padding: 20px;
+            
+            background-color: rgb(90, 86, 86);
+            width: 100%;
+            text-align: center;
+            // margin: 20px auto;
+
+           .client-review{
+                width: 70%;
+                margin: 10px auto;
+                color: $lightColor;
+                font-size: 15px;
+                letter-spacing: 1px;
+                font-weight: 400;
+                line-height: 20px;
+                text-align: center;
+            }
+           
+            .client-image{
+                height: 100px;
+                width: 100px;
+                border-radius: 50%;
+                object-fit: cover;
+                background: $backgroundRadiusColor;
+                margin: 0px auto;
+                padding: 5px;
+            }
+            .client-name{
+                font-weight: 500;
+                font-size: 40px;
+                color: $lightColor;
+            }
+            .client-designation{
+                color: $secoundaryColor;
+                font-weight: 500;
+            }
+            
+        }
+    }
+}

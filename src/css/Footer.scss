@@ -1,0 +1,28 @@
+@import "./Utilities.scss";
+
+.footer-section{
+    background-color: $whiteColor;
+    padding: 20px;
+    position: relative;
+
+    p{
+        text-align: center;
+        font-weight: 500;
+        opacity: 0.7;
+        color: #666;
+        font-size: 13px;
+    }
+    .btn-back-to-top{
+        position: fixed;
+        bottom: 20px;
+        right: 30px;
+        border: none;
+        outline: none;
+        cursor: pointer;
+        background: $backgroundRadiusColor;
+        padding: 10px;
+        color: $whiteColor;
+        border-radius: 4px;
+        z-index: 9999;
+    }
+}

@@ -1,0 +1,28 @@
+@import './Variables.scss';
+
+.section-header{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 80px;
+}
+.section-title{
+    margin-bottom: 10px;
+    font-size: 32px;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-family: 'Ubuntu', sans-serif;
+}
+.btn{
+    padding: 10px 21px;
+    text-transform: uppercase;
+    cursor: pointer;
+    color: $whiteColor;
+    border: none;
+    outline: none;
+    background: $backgroundRadiusColor;
+}
+.container{
+    width: 85%;
+    margin: 0 auto;
+}

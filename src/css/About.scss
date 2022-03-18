@@ -1,0 +1,121 @@
+@import "./Utilities.scss";
+
+.about-section{
+    background-color: $whiteColor;
+    width: 100%;
+
+    .about-content{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 50px 0px;
+
+        .left-content{
+            width: 30%;
+            text-align: right;
+             h1{
+                 font-size: 40px;
+                 color: #000;
+                 text-transform: uppercase;
+                 letter-spacing: 1px;
+                 font-weight: 300;
+             }
+            span{
+                color: $primaryColor;
+                font-weight: 600;
+                margin: 5px 0px;
+                text-transform: uppercase;
+                font-size: 18px;
+            }
+            p{
+                font-size: 16px;
+                line-height: 25px;
+                color: #666;
+                opacity: 0.7;
+                margin-top: 20px;
+
+            }
+        }
+        .middle-content{
+            width: 30%;
+            text-align: center;
+        }
+        .right-content{
+            width: 30%;
+            .skill-progress{
+                text-align: center;
+                label{
+                    font-weight: 600;
+                    display: inline-block;
+                    margin-bottom: 0px;
+                    margin-top: 10px;
+                }
+                .skill{
+                    height: 12px;
+                    position: relative;
+                    background: $secoundaryColor;
+                    border-radius: 10px;
+                    margin: 10px 0px;
+    
+                    span {
+                        display: block;
+                        height: 100%;
+                        border-top-right-radius: 8px;
+                        border-bottom-right-radius: 8px;
+                        border-top-left-radius: 20px;
+                        border-bottom-left-radius: 20px;
+                        background-color: $primaryColor;
+                        position: relative;
+                        overflow: hidden;
+                    }
+                }
+            }
+        }
+    }
+    .about-contact-info{
+        background-color: #eee;
+        padding: 50px 0px;
+        .info{
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            justify-content: space-between;
+
+            .col-1{
+                display: flex;
+                flex-wrap: wrap;
+                align-items: center;
+                justify-content: space-between;
+
+                span{
+                    background-color: #152759;
+                    color: $whiteColor;
+                    height: 50px;
+                    width: 50px;
+                    border-radius: 50%;
+                    padding: 15px;
+                    text-align: center;
+                    font-size: 20px;
+                }
+                .inner{
+                    margin-left: 20px;
+                    h3{
+                        font-weight: 500;
+                        opacity: 0.9;
+                        margin-bottom: 10px;
+                        color: #152759;
+                    }
+                    p,a,address{
+                        color: #444;
+                        opacity: 0.8;
+                        
+                    }
+                    a{
+                        display: block;
+                        margin: 5px 0px;
+                    }
+                }
+            }
+        }
+    }
+}
