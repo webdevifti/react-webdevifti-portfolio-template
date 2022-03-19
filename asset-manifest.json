@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-webdevifti-portfolio-template/static/css/main.965aa860.chunk.css",
+    "main.css": "/react-webdevifti-portfolio-template/static/css/main.c03f4039.chunk.css",
     "main.js": "/react-webdevifti-portfolio-template/static/js/main.d808e39a.chunk.js",
     "main.js.map": "/react-webdevifti-portfolio-template/static/js/main.d808e39a.chunk.js.map",
     "runtime-main.js": "/react-webdevifti-portfolio-template/static/js/runtime-main.78be634d.js",
@@ -12,7 +12,7 @@
     "static/js/3.e8f1c274.chunk.js.map": "/react-webdevifti-portfolio-template/static/js/3.e8f1c274.chunk.js.map",
     "index.html": "/react-webdevifti-portfolio-template/index.html",
     "static/css/2.970d4c3d.chunk.css.map": "/react-webdevifti-portfolio-template/static/css/2.970d4c3d.chunk.css.map",
-    "static/css/main.965aa860.chunk.css.map": "/react-webdevifti-portfolio-template/static/css/main.965aa860.chunk.css.map",
+    "static/css/main.c03f4039.chunk.css.map": "/react-webdevifti-portfolio-template/static/css/main.c03f4039.chunk.css.map",
     "static/js/2.01ff06ea.chunk.js.LICENSE.txt": "/react-webdevifti-portfolio-template/static/js/2.01ff06ea.chunk.js.LICENSE.txt",
     "static/media/1.612ad7c9.jpg": "/react-webdevifti-portfolio-template/static/media/1.612ad7c9.jpg",
     "static/media/10.2facef17.jpg": "/react-webdevifti-portfolio-template/static/media/10.2facef17.jpg",
@@ -32,7 +32,7 @@
     "static/js/runtime-main.78be634d.js",
     "static/css/2.970d4c3d.chunk.css",
     "static/js/2.01ff06ea.chunk.js",
-    "static/css/main.965aa860.chunk.css",
+    "static/css/main.c03f4039.chunk.css",
     "static/js/main.d808e39a.chunk.js"
   ]
 }
