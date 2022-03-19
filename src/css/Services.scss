@@ -41,3 +41,25 @@
         }
     }
 }
+
+@media screen and (max-width: 1024px){
+    .services-section{
+        .services-wrapper{
+            .service-card{
+                width: 50%;
+                margin: 20px 0px;
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .services-section{
+        .services-wrapper{
+            .service-card{
+                width: 100%;
+                margin: 40px 0px;
+            }
+        }
+    }
+}

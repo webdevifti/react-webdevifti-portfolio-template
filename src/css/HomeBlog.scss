@@ -54,3 +54,24 @@
         }
     }
 }
+
+@media screen and (max-width: 1024px){
+    .blog-section{
+        .blog-content-section{
+            .blog-card{
+                width: 48%;
+                margin: 20px 5px;
+            }
+        }
+    }
+}
+@media screen and (max-width: 600px){
+    .blog-section{
+        .blog-content-section{
+            .blog-card{
+                width: 100%;
+                // margin: 20px 5px;
+            }
+        }
+    }
+}

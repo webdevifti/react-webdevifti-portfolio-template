@@ -78,3 +78,53 @@
         }
     }
 }
+
+@media screen and (max-width: 1024px){
+    .portfolio-section{
+        .myportfolioes{
+            flex-direction: column;
+            .portfolio-list-name{
+                width: 100%;
+                button{
+                    display: inline-block;
+                    font-size: 15px;
+                    text-align: center;
+                    margin: 20px 15px;
+                }
+            }
+            .portfolio-items{
+                width: 100%;
+                max-height: 500px;
+                
+                overflow-y: scroll;
+                align-items: center;
+                justify-content: space-between;
+                .single-item{
+                    width: 45%;
+                }
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .portfolio-section{
+        .myportfolioes{
+         
+            .portfolio-list-name{
+                width: 100%;
+                button{
+                    display: inline-block;
+                    font-size: 15px;
+                    text-align: center;
+                    margin: 5px 3px;
+                }
+            }
+            .portfolio-items{
+                .single-item{
+                    width: 100%;
+                }
+            }
+        }
+    }
+}

@@ -50,3 +50,37 @@
         }
     }
 }
+
+@media screen and(max-width: 1024px){
+    .section-banner{
+        .banner-wrapper{
+            h1{
+                font-size: 48px;
+            }
+            h3{
+                font-size: 25px;
+            }
+            p{
+                font-size: 18px;
+            }
+        }
+    }
+}
+@media screen and(max-width: 600px){
+    .section-banner{
+        .banner-wrapper{
+            line-height: 50px;
+            h1{
+                font-size: 42px;
+            }
+            h3{
+                font-size: 25px;
+            }
+            p{
+                font-size: 15px;
+                line-height: 20px;
+                text-transform: lowercase;
+            }
+        }
+    }
+}

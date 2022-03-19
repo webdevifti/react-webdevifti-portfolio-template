@@ -46,3 +46,44 @@
         }
     }
 }
+
+@media screen and (max-width: 1024px){
+    .section-experience{
+        .experience-item {
+            margin: 20px 0px;
+            .experience{
+                padding: 10px;
+                .experience-desc{
+                    width: 75%;
+                }
+                .experience-metadata{
+                    width: 22%;
+                    h3{
+                        font-size: 15px;
+                    }
+                }
+            }
+        }
+    }
+}
+@media screen and (max-width: 600px){
+    .section-experience{
+        .experience-item {
+            margin: 20px 0px;
+            .experience{
+                flex-direction: column;
+                padding: 10px;
+                .experience-desc{
+                    width: 100%;
+                }
+                .experience-metadata{
+                    width: 100%;
+                    margin-bottom: 20px;
+                    h3{
+                        font-size: 18px;
+                    }
+                }
+            }
+        }
+    }
+}

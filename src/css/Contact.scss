@@ -78,3 +78,27 @@
         }
     }
 }
+
+@media screen and (max-width: 1024px){
+    .contact-section{
+        .contact-main-wrap{
+            .contact-wrap{
+                width: 80%;
+            }
+        }
+    }
+}
+@media screen and (max-width: 600px){
+    .contact-section{
+        .contact-main-wrap{
+            .contact-wrap{
+                width: 95%;
+                .form-row{
+                    .form-control{
+                        width: 100%;
+                    }
+                }
+            }
+        }
+    }
+}

@@ -62,3 +62,23 @@
         }
     }
 }
+
+@media screen and (max-width: 1024px) {
+    .testimonial-section{
+        .testimonial-wrapper{
+            .testimonial-items{
+                .client-name{
+                    font-size: 22px;
+                }
+                .client-review{
+                    font-size: 14px;
+                    line-height: 20px;
+                }
+                .client-designation{
+                    font-size: 16px;
+                    color: #000;
+                }
+            }
+        }
+    }
+}
